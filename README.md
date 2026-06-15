@@ -40,7 +40,8 @@ obsidian-guide/
 ├── SKILL.md                      → instruções principais da skill
 └── references/
     ├── mecanica.md               → referência técnica (links, tags, propriedades, plugins)
-    └── metodologias.md           → Zettelkasten, PARA, MOCs, notas atômicas
+    ├── metodologias.md           → Zettelkasten, PARA, MOCs, notas atômicas
+    └── glossario.md              → vocabulário e gírias da comunidade Obsidian
 ```
 
 ---
@@ -64,8 +65,34 @@ Depois de instalar, basta perguntar naturalmente:
 
 ---
 
-## Contribuições
+## Glossário da comunidade
+
+Alguns termos que você vai encontrar ao entrar no mundo Obsidian:
+
+| Termo | Significado |
+|---|---|
+| **PKM** | Personal Knowledge Management — gestão do conhecimento pessoal |
+| **Second brain** | "Segundo cérebro" — sistema externo que lembra e conecta por você |
+| **Digital garden** | Vault que cresce organicamente, como um jardim — notas em evolução contínua |
+| **Note gardening** | Ato de cuidar das notas: revisar, conectar, podar o que não serve |
+| **Fleeting notes** | Notas temporárias, pensamentos soltos capturados na hora |
+| **Atomic notes** | Uma nota = uma ideia. Pequenas e reconectáveis |
+| **Evergreen notes** | Notas que crescem e evoluem com o tempo, nunca "vencem" |
+| **Orphan notes** | Notas sem nenhum link — isoladas no grafo, conhecimento não integrado |
+| **Brain dump** | Despejar tudo numa nota sem estrutura. Útil pra capturar, precisa ser processado |
+| **MOC** | Map of Content — nota-índice que linka para outras notas de um tema |
+| **LYT** | Linking Your Thinking — abordagem de Nick Milo baseada em MOCs |
+| **Architect** | Quem planeja a estrutura antes de capturar |
+| **Gardener** | Quem captura primeiro e deixa a estrutura emergir |
+| **"Second brain, zero output"** | Vault lindo, sem nenhuma entrega real — autocrítica clássica da comunidade |
+| **Plugin rabbit hole** | Passar horas configurando plugins em vez de escrever notas |
+
+---
+
+
 
 Sugestões, correções e melhorias são bem-vindas! Abra uma issue ou um pull request.
 
 ---
+
+[Mabel Baggins](https://github.com/mabelbaggins) | Vendo o que tem além do Condado. ✨🍄
